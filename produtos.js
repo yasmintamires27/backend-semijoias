@@ -128,7 +128,7 @@ let semiJoias = [
     {
         id: 22,
         nome: "Brincos banhado à ouro 18K",
-        preco: "R$130.00",
+        preco: "R$115.00",
         img: "brinco22.png"
     },
     {
@@ -139,9 +139,9 @@ let semiJoias = [
     },
     {
         id: 24,
-        nome: "Brincos de prata 925",
-        preco: "R$90.00",
-        img: "brinco24.jpg"
+        nome: "Brincos banhado à ouro 18K",
+        preco: "R$70.00",
+        img: "brinco24.png"
     },
     {
         id: 25,
@@ -152,7 +152,7 @@ let semiJoias = [
     {
         id: 26,
         nome: "Brincos banhado à ouro 18K",
-        preco: "R$85.00",
+        preco: "R$95.00",
         img: "brinco26.png"
     },
     {
@@ -170,7 +170,7 @@ let semiJoias = [
     {
         id: 29,
         nome: "Brincos banhado à ouro 18K",
-        preco: "R$120.00",
+        preco: "R$95.00",
         img: "brinco29.png"
     },
     {
@@ -194,13 +194,13 @@ let semiJoias = [
     {
         id: 33,
         nome: "Brincos banhado à ouro 18K",
-        preco: "R$105.00",
+        preco: "R$120.00",
         img: "brinco33.png"
     },
     {
         id: 34,
         nome: "Brincos banhado à ouro 18K",
-        preco: "R$105.00",
+        preco: "R$95.00",
         img: "brinco34.png"
     },
     {
@@ -212,7 +212,7 @@ let semiJoias = [
     {
         id: 36,
         nome: "Brincos banhado à ouro 18K",
-        preco: "R$120.00",
+        preco: "R$95.00",
         img: "brinco36.png"
     },
     {
@@ -230,8 +230,8 @@ let semiJoias = [
     {
         id: 39,
         nome: "Brincos banhado à ouro 18K",
-        preco: "120.00",
-        img: "brinco39.jpg"
+        preco: "85.00",
+        img: "brinco39.png"
     },
     {
         id: 40,
@@ -242,8 +242,8 @@ let semiJoias = [
     {
         id: 41,
         nome: "Brincos banhado à ouro 18K",
-        preco: "R$105.00",
-        img: "brinco41.jpg"
+        preco: "R$85.00",
+        img: "brinco41.png"
     },
     {
         id: 42,
@@ -266,20 +266,20 @@ let semiJoias = [
     {
         id: 45,
         nome: "Brincos banhado à ouro 18K",
-        preco: "R$115.00",
-        img: "brinco45.jpg"
+        preco: "R$85.00",
+        img: "brinco45.png"
     },
     {
         id: 46,
         nome: "Brincos banhado à ouro 18K",
-        preco: "R$140.00",
-        img: "brinco46.jpg"
+        preco: "R$120.00",
+        img: "brinco46.png"
     },
     {
         id: 47,
         nome: "Brincos banhado à ouro 18K",
-        preco: "R$130.00",
-        img: "brinco47.jpg"
+        preco: "R$115.00",
+        img: "brinco47.png"
     },
     {
         id: 48,
