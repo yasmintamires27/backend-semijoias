@@ -13,9 +13,9 @@ let semiJoias = [
     },
     {
         id: 3,
-        nome: "Brincos de prata 925",
+        nome: "Brincos banhado à ouro 18K",
         preco: "R$70.00",
-        img: "brinco3.jpg"
+        img: "brinco3.png"
     },
     {
         id: 4,
